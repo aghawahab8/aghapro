@@ -160,7 +160,7 @@ try:
 
 
 
-    os.system("clear")
+
 
     try:
 

@@ -60,7 +60,7 @@ try:
 
 	
 
-def logo():
+
 
 	 	
 

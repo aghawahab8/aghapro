@@ -90,7 +90,7 @@ try:
 
 	
 
-def log_sel():
+
 
 	sel = raw_input("\033[93;1m  CHOOSE: \033[92;1m")
 

@@ -8,7 +8,7 @@
 
 #DON'T FORGET TO GIVE CREDIT TO MIR AGHa
 
-from os import system
+
 
 from time import sleep
 

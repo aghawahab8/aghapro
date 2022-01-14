@@ -56,9 +56,9 @@ try:
 
 	
 
-def linex():
 
-	os.system('echo  "\n ======================================\n" | lolcat -a -d 2 -s 50')
+
+	
 
 def logo():
 

@@ -496,7 +496,7 @@ def crack_select1():
 
 	print("\033[92;1m  BRUTE HAS BEEN STARTED\x1b[0m")
 
-	print("\033[94;1m  WAIT AND SEE \033[92;1m✘\033[91;1m✘\x1b[0m")
+	
 
 	linex()
 

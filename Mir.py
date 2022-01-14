@@ -158,7 +158,7 @@ try:
 
 		log_sel()
 
-def token():
+
 
     os.system("clear")
 
@@ -190,7 +190,7 @@ def token():
 
         menu()
 
-def token_check():
+
 
 	try:
 
@@ -206,7 +206,7 @@ def token_check():
 
 	pass
 
-def menu():
+
 
     os.system("clear")
 
@@ -272,7 +272,7 @@ def menu():
 
     
 
-def menu_option():
+
 
 	select = raw_input("\033[92;1m  CHOOSE : ")
 
@@ -298,7 +298,7 @@ def menu_option():
 
 		menu_option()
 
-def crack1():
+
 
 	global token
 
@@ -340,7 +340,7 @@ def crack1():
 
 	
 
-def crack_select1():
+
 
 	select = raw_input("\033[92;1m  CHOOSE : ")
 
@@ -848,7 +848,7 @@ def crack_select1():
 
 	
 
-def crack():
+
 
 	global token
 
@@ -888,7 +888,7 @@ def crack():
 
 	crack_select()
 
-def crack_select():
+
 
 	select = raw_input("\033[92;1m  CHOOSE : ")
 

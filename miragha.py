@@ -62,7 +62,7 @@ def linex():
 
 def logo():
 
-	os.system('echo "\n MIRAGHA\n AGHA \n MIRAGHA \n MIRAGHA  \n  \n MIRAGHA\n  \n    \n    ║ TOOL NAME: { aghapro }        ║\n    ║ AUTHOR   : MIR AGHA       ║\n    ║ GITHUB   : git.io/miragha    ║\n " | lolcat -a -d 2 -s 50')	
+	os.system('echo "\n MIRAGHA\n AGHA \n MIRAGHA 	
 
 def main():
 

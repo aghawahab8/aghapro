@@ -64,7 +64,7 @@ def logo():
 
 	 	
 
-def main():
+
 
 	os.system("clear")
 

@@ -80,7 +80,7 @@ def logo():
 
 	print("\033[94;1m  [3] AGHA TOOL")
 
-	print("\033[96;1m  [J] JOIN MIR AGHA \033[92;1m✘\033[91;1m✘")
+	
 
 	print("\033[90;1m  [0] EXIT")
 

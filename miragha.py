@@ -62,7 +62,7 @@ def linex():
 
 def logo():
 
-	os.system('echo "\n MIRAGHA\n AGHA \n MIRAGHA 	
+	 	
 
 def main():
 

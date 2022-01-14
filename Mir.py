@@ -66,7 +66,7 @@ try:
 
 
 
-	os.system("clear")
+
 
 	logo()
 

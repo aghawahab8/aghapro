@@ -56,7 +56,7 @@ except requests.exceptions.ConnectionError:
 
 	os.system("clear")
 
-	xox("\n\t\033[93;1m  NO INTERNET CONNECTION :(\n\n")
+
 
 	sys.exit()
 

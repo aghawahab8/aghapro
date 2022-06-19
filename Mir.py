@@ -8,9 +8,6 @@ try:
 
 	from requests.exceptions import ConnectionError
 
-except ImportError:
-
-	os.system("pip2 install requests")
 
 agents = [
 
